@@ -1,6 +1,5 @@
 print"This is simple Open Source program"
 print"Coded by the dutchman"
-print"Contact korazakihicham@gmail.com for any bugs"
 print"[[]|_ |_ [= [ T [] R"
 import requests
 import shodan
